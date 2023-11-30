@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-05f91a49","path":"/posts/%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90/","title":"游戏推荐","lang":"zh-CN","frontmatter":{"title":"游戏推荐","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
