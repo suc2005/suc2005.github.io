@@ -7,14 +7,13 @@ export default navbar([
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
+      {text: "小组学习", icon:"graduation-cap",link:"小组学习"},
       {
         text: "游戏推荐",
-        icon: "pen-to-square",
-        prefix: "游戏推荐/",
-        children: [
-          { text: "Bitburner", icon: "pen-to-square", link: "bitbuner" },
-        ],
-      }
+        icon: "gamepad",
+        link: "游戏推荐",
+      },
+      {text:"学校新闻",icon:"newspaper",link:"学校新闻"}
     ]
   },
   {

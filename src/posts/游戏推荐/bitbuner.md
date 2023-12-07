@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: hockey-puck
 date: 2023-11-29
 title: Bitburner
 category:
@@ -7,6 +7,7 @@ category:
 tag:
   - 游戏
   - 黑客
+cover: /assets/images/bitburner.png
 ---
 
 
