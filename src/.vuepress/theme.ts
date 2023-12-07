@@ -60,8 +60,11 @@ export default hopeTheme({
     blog: true,
 
     comment:{
-      provider:"Waline",
-      serverURL:"blogcomment-suc2005s-projects.vercel.app"
+      provider: "Giscus",
+      repo: "suc2005/blogcomment",
+      repoId: "R_kgDOK28_Dg",
+      category: "Announcements",
+      categoryId: "DIC_kwDOK28_Ds4CbkdR"
     },
 
     autoCatalog: true,
