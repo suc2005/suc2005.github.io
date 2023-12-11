@@ -31,7 +31,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "明德厚学，求是创新。",
+  footer: "明德，厚学，求是，创新。",
 
   displayFooter: true,
 

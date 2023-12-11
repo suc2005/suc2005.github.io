@@ -5,7 +5,7 @@ export default navbar([
   {
     text: "博文",
     icon: "pen-to-square",
-    prefix: "/posts/",
+    prefix: "/博文/",
     children: [
       {text: "小组学习", icon:"graduation-cap",link:"小组学习"},
       {text: "游戏推荐",icon: "gamepad",link: "游戏推荐",},
