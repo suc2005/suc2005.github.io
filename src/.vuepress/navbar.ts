@@ -19,4 +19,9 @@ export default navbar([
     icon: "circle-info",
     link: "/intro"
   },
+  {
+    text: "寝室主页",
+    icon: "link",
+    link: "https://rjj0228.gitee.io/dormitory617/"
+  },
 ]);
